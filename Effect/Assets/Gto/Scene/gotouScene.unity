@@ -404,6 +404,11 @@ PrefabInstance:
       propertyPath: VelocityModule.orbitalZ.minScalar
       value: 0.2
       objectReference: {fileID: 0}
+    - target: {fileID: 3128494515625467638, guid: ccd34c12f7a874d4aa09017be689b2d1,
+        type: 3}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
+      objectReference: {fileID: 0}
     - target: {fileID: 8067848349883688576, guid: ccd34c12f7a874d4aa09017be689b2d1,
         type: 3}
       propertyPath: m_IsActive
@@ -53272,7 +53277,7 @@ PrefabInstance:
     - target: {fileID: 1942218658763067192, guid: 96a4b4c3907a7d54b85472ee20a841df,
         type: 3}
       propertyPath: SizeModule.curve.scalar
-      value: 250
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 1942218658763067192, guid: 96a4b4c3907a7d54b85472ee20a841df,
         type: 3}
@@ -53287,7 +53292,7 @@ PrefabInstance:
     - target: {fileID: 7574513954859424945, guid: 96a4b4c3907a7d54b85472ee20a841df,
         type: 3}
       propertyPath: SizeModule.curve.scalar
-      value: 500
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 7574513954859424945, guid: 96a4b4c3907a7d54b85472ee20a841df,
         type: 3}
@@ -53332,7 +53337,7 @@ PrefabInstance:
     - target: {fileID: 2333512385340661516, guid: 96a4b4c3907a7d54b85472ee20a841df,
         type: 3}
       propertyPath: InitialModule.startLifetime.scalar
-      value: 1
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 2333512385340661516, guid: 96a4b4c3907a7d54b85472ee20a841df,
         type: 3}
