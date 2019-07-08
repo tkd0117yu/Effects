@@ -1,33 +1,14 @@
 fileFormatVersion: 2
-guid: c16c131656465c94f9985ad26986703e
+guid: 172fa483e7828ca4ca32994e1b8ffae1
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: base
-    100002: cockpit
-    100004: missile_left
-    100006: missile_right
-    100008: //RootNode
-    400000: base
-    400002: cockpit
-    400004: missile_left
-    400006: missile_right
-    400008: //RootNode
-    2100000: 07 - Default
-    2100002: 09 - Default
-    2100004: 08 - Default
-    2300000: base
-    2300002: cockpit
-    2300004: missile_left
-    2300006: missile_right
-    3300000: base
-    3300002: cockpit
-    3300004: missile_left
-    3300006: missile_right
-    4300000: base
-    4300002: missile_right
-    4300004: cockpit
-    4300006: missile_left
+    100000: //RootNode
+    400000: //RootNode
+    2100000: No Name
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Box001
   externalObjects: {}
   materials:
     importMaterials: 1
