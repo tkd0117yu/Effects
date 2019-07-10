@@ -872,7 +872,7 @@ ParticleSystem:
         m_Curve:
         - serializedVersion: 3
           time: 0
-          value: 0.55013657
+          value: 0.44198227
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -880,8 +880,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.114310235
-          value: 0.28435665
+          time: 0.07685754
+          value: 0.38936764
           inSlope: -0.010509118
           outSlope: -0.010509118
           tangentMode: 0
@@ -889,8 +889,8 @@ ParticleSystem:
           inWeight: 1
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.24340403
-          value: 0.21022815
+          time: 0.24715006
+          value: 0.41088122
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -898,8 +898,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.45329404
-          value: 0.85857964
+          time: 0.3334515
+          value: 0.48554802
           inSlope: -0.019675393
           outSlope: -0.019675393
           tangentMode: 0
@@ -907,8 +907,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.6755105
         - serializedVersion: 3
-          time: 0.67572314
-          value: 0.85857964
+          time: 0.60081774
+          value: 0.5027828
           inSlope: -0.040438604
           outSlope: -0.040438604
           tangentMode: 0
@@ -916,8 +916,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.8441985
         - serializedVersion: 3
-          time: 0.764293
-          value: 0.74446386
+          time: 0.73434
+          value: 0.47331518
           inSlope: -0.017133674
           outSlope: -0.017133674
           tangentMode: 0
@@ -925,8 +925,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.2754064
         - serializedVersion: 3
-          time: 0.91426146
-          value: 0.716298
+          time: 0.88053954
+          value: 0.48274696
           inSlope: -0.24691981
           outSlope: -0.24691981
           tangentMode: 0
@@ -935,7 +935,7 @@ ParticleSystem:
           outWeight: 0.603239
         - serializedVersion: 3
           time: 1
-          value: 0.55013657
+          value: 0.44198227
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -4764,7 +4764,7 @@ GameObject:
   - component: {fileID: 2879228751871503354}
   - component: {fileID: 609161784818291088}
   m_Layer: 0
-  m_Name: Effects_002
+  m_Name: Effects_L00
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
