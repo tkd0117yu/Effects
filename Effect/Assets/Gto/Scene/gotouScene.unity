@@ -38256,13 +38256,13 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1158405233}
   serializedVersion: 6
-  lengthInSec: 1
+  lengthInSec: 4
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 3
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -52555,7 +52555,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -53374,7 +53374,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 10
+      scalar: 0
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -53484,7 +53484,7 @@ ParticleSystem:
       countCurve:
         serializedVersion: 2
         minMaxState: 0
-        scalar: 0
+        scalar: 1
         minScalar: 30
         maxCurve:
           serializedVersion: 2
@@ -53566,8 +53566,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 1
         - serializedVersion: 3
-          time: 0.2000206
-          value: 0.38960016
+          time: 0.18229751
+          value: 0.50330865
           inSlope: -0.014080271
           outSlope: -0.014080271
           tangentMode: 0
@@ -53584,8 +53584,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 1
         - serializedVersion: 3
-          time: 0.40245533
-          value: 0.29777765
+          time: 0.37967396
+          value: 0.49894953
           inSlope: -0.0269143
           outSlope: -0.0269143
           tangentMode: 0
@@ -53602,14 +53602,14 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 1
         - serializedVersion: 3
-          time: 0.60157263
-          value: 0.19566387
-          inSlope: -0.06440194
-          outSlope: -0.06440194
+          time: 0.58130896
+          value: 0.498856
+          inSlope: -0.0026165913
+          outSlope: -0.0026165913
           tangentMode: 0
           weightedMode: 0
           inWeight: 0.33333334
-          outWeight: 0.99610436
+          outWeight: 1
         - serializedVersion: 3
           time: 0.6985761
           value: 0.89991355
@@ -53620,14 +53620,14 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 1
         - serializedVersion: 3
-          time: 0.8071216
-          value: 0.100698054
-          inSlope: -0.053621706
-          outSlope: -0.053621706
+          time: 0.80205566
+          value: 0.49721295
+          inSlope: -0.045375403
+          outSlope: -0.045375403
           tangentMode: 0
           weightedMode: 0
           inWeight: 0.33333334
-          outWeight: 0.9843995
+          outWeight: 1
         - serializedVersion: 3
           time: 0.89094734
           value: 1
