@@ -115,7 +115,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 2
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -4768,7 +4768,7 @@ GameObject:
   - component: {fileID: 8218237142770069389}
   - component: {fileID: 7633725637308140355}
   m_Layer: 0
-  m_Name: BattleStart_Round_BurstParticle
+  m_Name: BattleStart_Round_BurstParticle_ver1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
