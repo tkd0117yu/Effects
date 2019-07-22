@@ -301,6 +301,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "\u7BB1"
       objectReference: {fileID: 0}
+    - target: {fileID: 2395002202828442008, guid: 434115c8e3128d043ac0b3ddddfba4e1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5194186673723842098, guid: 434115c8e3128d043ac0b3ddddfba4e1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -399,8 +404,8 @@ Camera:
   m_GameObject: {fileID: 1739516723}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
