@@ -3,8 +3,7 @@
 --- !u!1 &966867294979958441
 GameObject:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 7632518836759398858, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
@@ -22,8 +21,7 @@ GameObject:
 --- !u!4 &7915781876309645631
 Transform:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 674878530421913180, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966867294979958441}
@@ -37,8 +35,7 @@ Transform:
 --- !u!198 &7044520749169610449
 ParticleSystem:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 379443196496912818, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966867294979958441}
@@ -4643,8 +4640,7 @@ ParticleSystem:
 ParticleSystemRenderer:
   serializedVersion: 6
   m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 7126941570313037845, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966867294979958441}
@@ -4658,7 +4654,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ef964e027b9b4ba47ae1670fcd1f7393, type: 2}
+  - {fileID: 2100000, guid: d32a3a3a82647374ab1ef2faa7b5abbc, type: 2}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -4705,8 +4701,7 @@ ParticleSystemRenderer:
 --- !u!1 &966867296378137614
 GameObject:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 7632518835193709421, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
@@ -4724,8 +4719,7 @@ GameObject:
 --- !u!4 &7915781875746984856
 Transform:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 674878531219717371, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966867296378137614}
@@ -4739,8 +4733,7 @@ Transform:
 --- !u!198 &7044520748792743030
 ParticleSystem:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 379443196907072277, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966867296378137614}
@@ -9345,8 +9338,7 @@ ParticleSystem:
 ParticleSystemRenderer:
   serializedVersion: 6
   m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 7126941571878986418, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966867296378137614}
@@ -9360,7 +9352,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ef964e027b9b4ba47ae1670fcd1f7393, type: 2}
+  - {fileID: 2100000, guid: d32a3a3a82647374ab1ef2faa7b5abbc, type: 2}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -9407,8 +9399,7 @@ ParticleSystemRenderer:
 --- !u!1 &4446624430537610543
 GameObject:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 6427395897536559692, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
@@ -9426,8 +9417,7 @@ GameObject:
 --- !u!4 &6702504547599051449
 Transform:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 4144212706987623898, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4446624430537610543}
@@ -9441,8 +9431,7 @@ Transform:
 --- !u!198 &5845038717967940951
 ParticleSystem:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 3862567172976841268, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4446624430537610543}
@@ -14047,8 +14036,7 @@ ParticleSystem:
 ParticleSystemRenderer:
   serializedVersion: 6
   m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 5924888193718852499, guid: 187c09a30b9a8944496437496c607ad8,
-    type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4446624430537610543}
@@ -14062,7 +14050,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ef964e027b9b4ba47ae1670fcd1f7393, type: 2}
+  - {fileID: 2100000, guid: d32a3a3a82647374ab1ef2faa7b5abbc, type: 2}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
