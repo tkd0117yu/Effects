@@ -691,7 +691,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 10000
+    maxNumParticles: 100
     size3D: 0
     rotation3D: 0
     gravityModifier:
@@ -956,7 +956,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 500
+      scalar: 100
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -4745,7 +4745,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ef964e027b9b4ba47ae1670fcd1f7393, type: 2}
+  - {fileID: 2100000, guid: e31c0aa3a3910ee45b847cd1efbaff79, type: 2}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -4801,7 +4801,7 @@ GameObject:
   - component: {fileID: 2926709505148173177}
   - component: {fileID: 7174872787728385742}
   m_Layer: 0
-  m_Name: Effects_010
+  m_Name: L01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
