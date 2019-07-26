@@ -65,7 +65,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _KeySharpness: 1
-    - _KeyThreshold: 0.42653543
+    - _KeyThreshold: 0.82107
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
