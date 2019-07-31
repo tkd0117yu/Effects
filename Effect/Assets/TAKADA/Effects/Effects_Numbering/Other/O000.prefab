@@ -41,13 +41,13 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 886335402537333682}
   serializedVersion: 6
-  lengthInSec: 5
+  lengthInSec: 1
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -116,7 +116,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 1
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -169,7 +169,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 0
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -4706,6 +4706,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 905911248342228147}
     m_Modifications:
+    - target: {fileID: 1750147564864592396, guid: fb56df986f63d2d418f00c914d04ab71,
+        type: 3}
+      propertyPath: m_Name
+      value: POWRing
+      objectReference: {fileID: 0}
+    - target: {fileID: 1750147564864592394, guid: fb56df986f63d2d418f00c914d04ab71,
+        type: 3}
+      propertyPath: prewarm
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1750147564864592395, guid: fb56df986f63d2d418f00c914d04ab71,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4760,11 +4770,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1750147564864592396, guid: fb56df986f63d2d418f00c914d04ab71,
-        type: 3}
-      propertyPath: m_Name
-      value: POWRing
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb56df986f63d2d418f00c914d04ab71, type: 3}
