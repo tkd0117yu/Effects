@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6835943160747463924}
   - component: {fileID: 680692169959498417}
   m_Layer: 0
-  m_Name: "\u53CE\u675F"
+  m_Name: Convergence
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -659,7 +659,7 @@ ParticleSystem:
   ShapeModule:
     serializedVersion: 6
     enabled: 1
-    type: 0
+    type: 4
     angle: 25
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
