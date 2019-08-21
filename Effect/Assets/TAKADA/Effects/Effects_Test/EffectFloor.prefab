@@ -4710,7 +4710,7 @@ GameObject:
   - component: {fileID: 1692602821793506905}
   - component: {fileID: 7836378596364218480}
   m_Layer: 0
-  m_Name: "\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u5E8A"
+  m_Name: EffectFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
